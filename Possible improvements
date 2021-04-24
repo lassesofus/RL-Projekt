@@ -1,0 +1,5 @@
+How does stockfish evaluate the board? If we use its evalution to improve our bot, we need a description of this in the report. 
+The Stockfish evaluation seems to run very slowly. How do we make it faster?
+Is the bot doing what it is supposed to do? It seems to be taking some stupid moves when you're playing against it.
+Extra: How do we make the GUI work with the current Colab version of the bot? 
+
