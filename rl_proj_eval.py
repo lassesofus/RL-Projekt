@@ -45,7 +45,7 @@ def process_results_single(dataframes, names): # Set modelconfig to one of the f
        
        	# Fist plot:
     fig = plt.figure(figsize=(10,4))
-    fig.suptitle('Performance of the Chessbot ', y=1.03, fontsize=16)
+    #fig.suptitle('Performance of the Chessbot ', fontsize=16)
     ax1 = fig.add_subplot(131)
        
     color = 'steelblue'
