@@ -1,11 +1,3 @@
-'''
-
-Important Github repositories:
-https://github.com/AnthonyASanchez/PythonChessAi/blob/master/AlphaBetaPruning.py
-https://github.com/rfma23/ChessAI/blob/main/chessAI.ipynb
-https://python-chess.readthedocs.io/en/latest/
-
-'''
 
 # Pychess Imports:
 from tqdm import tqdm
