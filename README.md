@@ -2,6 +2,7 @@
 This is a project made by 5 students which are participating in the course 02465: Introduction to reinforcement learning and control at the Technical University of Denmark. The code is greatly inspired by Rafael Mosca's (rfma23) repository https://github.com/rfma23/ChessAI.
 
 ## Installing the environment
+For the project, we used python 3.8.4. The used libraries can be found in requirements.txt
 
 ## Making the code work
 In the ```main.py``` script, please change the ```path```variable to the folder where the stockfish engine is stored on you system. Furthermore, when initializing the stockfish engine, remember to change the name to the stockfish engine stored on your system.
